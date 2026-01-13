@@ -1,12 +1,8 @@
-<h1 align="left">Hi, I'm Pedro Marin! 👋<br>Software Developer | Computer Science Student @ 5th Semester</h1>
+<h1 align="left">Hi, i'am Pedro Marin! 👋 <br>Software Developer | Computer Science Student @ 5th Semester</h1>
 
 ###
 
-<h3 align="left">🔭 Current Focus: Java Backend and Web Technologies (HTML, CSS, JS).<br>🎯 Goal: Looking for my first Software Development Internship.<br>⚡ Fun Fact: I once got a 100 grade in Data Structures and Algorithms!</h3>
-
-###
-
-<p align="left"></p>
+<h4 align="left">🔭 Current Focus: Java Backend and Web Technologies (HTML, CSS, JS)<br>🎯 Goal: Looking for my first Software Development Internship.<br>⚡ Fun Fact: I once got a 100 grade in Data Structures and Algorithms!</h4>
 
 ###
 
@@ -28,6 +24,8 @@
 
 ###
 
-<h1 align="left"></h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
