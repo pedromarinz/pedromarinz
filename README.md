@@ -1,8 +1,12 @@
-<h1 align="left">Hi, i'am Pedro Marin! 👋 <br>Software Developer | Computer Science Student @ 5th Semester</h1>
+<h1 align="left">Hi, I'am Pedro Marin! 👋 <br>Software Developer | Computer Science Student @ 5th Semester</h1>
 
 ###
 
-<h4 align="left">🔭 Current Focus: Java Backend and Web Technologies (HTML, CSS, JS)<br>🎯 Goal: Looking for my first Software Development Internship.<br>⚡ Fun Fact: I once got a 100 grade in Data Structures and Algorithms!</h4>
+<h4 align="left">I'am a Software Developer focused on creating responsive and intuitive interfaces using HTML, CSS, and JavaScript. While my primary expertise is in Front-end development, I also have experience with Java and Postgresql through my university studies.</h4>
+
+###
+
+<h4 align="left">🔭 Current Focus: Java Backend and Web Technologies (HTML, CSS, JS)<br>🎯 Goal: Looking for my first Software Development Internship.</h4>
 
 ###
 
@@ -20,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
