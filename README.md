@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Developer focused on creating responsive and intuitive interfaces using <b>HTML, CSS, and JavaScript</b>. While my primary expertise is in Front-end development, I am also developing my <b>Java</b> and <b>PostgreSQL</b> skills through my studies at University.</p>
+<p align="left">I'm a Software Developer focused on creating responsive and intuitive interfaces using <b>HTML, CSS, and JavaScript</b>. While my primary expertise is in Front-end development, I am also developing my <b>Java</b> and <b>Database</b> skills through my studies at University.</p>
 
 ###
 
