@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'am Pedro Marin! 👋 <br>Software Developer | Computer Science Student @ 5th Semester</h1>
+<h1 align="left">Hi, I'm Pedro Marin! 👋 <br>Software Developer | Computer Science Student @ 5th Semester</h1>
 
 ###
 
-<h4 align="left">I'am a Software Developer focused on creating responsive and intuitive interfaces using HTML, CSS, and JavaScript. While my primary expertise is in Front-end development, I also have experience with Java and Postgresql through my university studies.</h4>
+<p align="left">I'm a Software Developer focused on creating responsive and intuitive interfaces using <b>HTML, CSS, and JavaScript</b>. While my primary expertise is in Front-end development, I am also developing my <b>Java</b> and <b>PostgreSQL</b> skills through my studies at UniRitter.</p>
 
 ###
 
-<h4 align="left">🔭 Current Focus: Java Backend and Web Technologies (HTML, CSS, JS)<br>🎯 Goal: Looking for my first Software Development Internship.</h4>
+<h4 align="left">🎯 Goal: Seeking my first Software Development Internship to apply my front-end knowledge and grow within a technical team.</h4>
 
 ###
 
@@ -14,26 +14,43 @@
 
 ###
 
+<h4 align="left">Frontend</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+</div>
+
+###
+
+<h4 align="left">Backend & Database</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+</div>
+
+###
+
+<h4 align="left">Tools</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
+###
+
+<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromarinz&show_icons=true&theme=vision-as-code" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarinz&layout=compact&theme=vision-as-code" height="150" alt="languages card" />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&color=50B63F"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&color=50B63F" />
 </div>
-
-###
