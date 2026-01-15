@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm a Software Developer focused on creating responsive and intuitive interfaces using <b>HTML, CSS, and JavaScript</b>. While my primary expertise is in Front-end development, I am also developing my <b>Java</b> and <b>PostgreSQL</b> skills through my studies at UniRitter.</p>
+<p align="left">I'm a Software Developer focused on creating responsive and intuitive interfaces using <b>HTML, CSS, and JavaScript</b>. While my primary expertise is in Front-end development, I am also developing my <b>Java</b> and <b>PostgreSQL</b> skills through my studies at University.</p>
 
 ###
 
-<h4 align="left">🎯 Goal: Seeking my first Software Development Internship to apply my front-end knowledge and grow within a technical team.</h4>
+<h4 align="left">🎯 Goal: Seeking my first Software Development Internship to apply my knowledge and grow within a technical team.</h4>
 
 ###
 
@@ -39,14 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
-
-###
-
-<br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromarinz&show_icons=true&theme=vision-as-code" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarinz&layout=compact&theme=vision-as-code" height="150" alt="languages card" />
 </div>
 
 ###
